@@ -1,1 +1,1 @@
-**Laboratory Activities**
+**Lab Activities in my Intermidiate Programming class**
