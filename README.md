@@ -1,2 +1,1 @@
-# Intermidiate-Programming
 **Laboratory Activities**
